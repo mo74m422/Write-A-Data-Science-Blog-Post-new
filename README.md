@@ -3,6 +3,8 @@ Write-A-Data-Science-Blog-Post
 A Udacity Data Scientist Nanodegree Project
 
 Table of Contents
+
+
 1.Installation
 
 2.Project Motivation
@@ -37,7 +39,7 @@ File Descriptions:
 survey_results_public -- this file contains with main survey results, one respondent per row and one column per answer.
 
 Results:
-The main findings of the code can be found at the post available  https://medium.com/@mo74m4d22/data-analysis-of-stack-overflow-developer-survey-2017-5ba855f2cbf4?sk=bb16495c0c236b3dd68f89d4d43ab647
+The main findings of the code can be found at the post available  https://medium.com/@mo74m4d22/data-analysis-of-stack-overflow-developer-survey-2017-5ba855f2cbf4
 
 Licensing, Authors, and Acknowledgements:
 Must give credit to Udacity courses for some code ideas
